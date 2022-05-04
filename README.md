@@ -1,2 +1,2 @@
-# 100-Days-of-Code-Projects
+# Small Code Projects Practice
 Python
